@@ -649,3 +649,4 @@ site/docs/.vitepress/cache
 site/docs/.vitepress/dist
 demo/macos/FBExampleObjc/FBExampleObjc/Facebetter.framework
 macos/demo/FBExampleObjc/libs/Facebetter.framework
+ios/demo/FBExampleObjc/libs/Facebetter.framework
